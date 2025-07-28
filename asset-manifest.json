@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NewMBTI/static/css/main.96ffbb5b.css",
+    "main.js": "/NewMBTI/static/js/main.7bf6d8f0.js",
+    "index.html": "/NewMBTI/index.html",
+    "main.96ffbb5b.css.map": "/NewMBTI/static/css/main.96ffbb5b.css.map",
+    "main.7bf6d8f0.js.map": "/NewMBTI/static/js/main.7bf6d8f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96ffbb5b.css",
+    "static/js/main.7bf6d8f0.js"
+  ]
+}
