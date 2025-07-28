@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/NewMBTI/static/css/main.96ffbb5b.css",
-    "main.js": "/NewMBTI/static/js/main.7bf6d8f0.js",
-    "index.html": "/NewMBTI/index.html",
-    "main.96ffbb5b.css.map": "/NewMBTI/static/css/main.96ffbb5b.css.map",
-    "main.7bf6d8f0.js.map": "/NewMBTI/static/js/main.7bf6d8f0.js.map"
+    "main.css": "/FINALCOMBINE/static/css/main.96ffbb5b.css",
+    "main.js": "/FINALCOMBINE/static/js/main.7bf6d8f0.js",
+    "index.html": "/FINALCOMBINE/index.html",
+    "main.96ffbb5b.css.map": "/FINALCOMBINE/static/css/main.96ffbb5b.css.map",
+    "main.7bf6d8f0.js.map": "/FINALCOMBINE/static/js/main.7bf6d8f0.js.map"
   },
   "entrypoints": [
     "static/css/main.96ffbb5b.css",
